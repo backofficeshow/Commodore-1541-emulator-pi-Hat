@@ -6,6 +6,9 @@ Feel free to use this design for your own personal use. If you want to use it in
 Steve White's excellent project:
 https://cbm-pi1541.firebaseapp.com/
 
+The video stream about this design:
+https://youtu.be/9ZHAoGowLNE
+
 Backofficeshow links:
 https://www.youtube.com/backofficeshow
 https://www.backofficeshow.com
