@@ -15,3 +15,7 @@ https://www.backofficeshow.com
 
 Please feel free to ping me on twitter: @backofficeshow
 or be a real superstar and consider buying me a coffee via Patreon: https://www.patreon.com/BackofficeShow
+
+TODO:
+
+Replace level shifting components with integrated circuit: http://www.ti.com/lit/ds/symlink/txb0108.pdf
