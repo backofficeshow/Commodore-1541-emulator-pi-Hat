@@ -9,6 +9,9 @@ https://cbm-pi1541.firebaseapp.com/
 The video stream about this design:
 https://youtu.be/9ZHAoGowLNE
 
+The video stream about the build:
+https://www.youtube.com/watch?v=_NtLqHfJCsg
+
 Backofficeshow links:
 https://www.youtube.com/backofficeshow
 https://www.backofficeshow.com
